@@ -7,10 +7,7 @@ categories: jekyll update
 Here you can see the weekday counts of each of the focus crimes.
 
 
-![crime]("/asset/images/weekdaycount.png")
-
-
-
+![crime](/asset/images/weekdaycount.png)
 
 Here is how we calculated the weekday values.
 
