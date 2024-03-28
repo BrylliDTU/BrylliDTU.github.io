@@ -3,6 +3,7 @@ layout: post
 title:  "Weekday crime analytics for SF"
 date:   2024-03-28 22:08:33 +0100
 categories: jekyll update
+permalink: "/weekdaycrimes/"
 ---
 Here you can see the weekday counts of each of the focus crimes.
 
