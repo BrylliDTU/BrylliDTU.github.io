@@ -47,6 +47,23 @@ Here we can find something to help with out insights
 
 
 
+
+figure {
+  /* Add some space around the figure */
+  margin: 20px 0;
+  /* Center the content */
+  text-align: center;
+}
+
+figcaption {
+  /* Style for the caption text */
+  margin-top: 10px;
+  font-style: italic;
+  color: #555;
+}
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
