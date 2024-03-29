@@ -5,6 +5,17 @@
 layout: default
 ---
 
+# Information about the Dataset
+
+The dataset that we will be using for this project is called **Police Department Incident Reports from 2003 to May 2018**
+
+
+Check out the where we got the dataset for the crimes at [Dataset Crimes][crime-data].
+
+[crime-data]: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -30,10 +41,6 @@ weekdays_ordered = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Sat
 weekday_counts_focus["Weekday"] = pd.Categorical(weekday_counts_focus["Weekday"], categories=weekdays_ordered, ordered=True)
 weekday_counts_focus = weekday_counts_focus.sort_values(by=["Weekday", "Category"])
 {% endhighlight %}
-
-Check out the where we got the dataset for the crimes at [Dataset Crimes][crime-data].
-
-[crime-data]: https://jekyllrb.com/docs/home
 
 
 
