@@ -26,6 +26,8 @@ Here we will show time series
 
 Here we will show heat map 
 
+<iframe src="/asset/map.html" width="800" height="600"></iframe>
+
 # Interactive visualization in Bokeh
 
 Here we show an interactive
