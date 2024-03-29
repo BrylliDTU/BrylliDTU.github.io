@@ -63,8 +63,17 @@ The interactive visualization clearly indicates that the Mission district report
 
 Here you can find the source for time series insights [Time Series Insights][time-series].
 
-[time-series]: https://localnewsmatters.org/2023/08/17/sex-work-and-the-city-policing-prostitution-in-san-francisco-reflects-evolving-attitudes/
+Here you can find the sources for the map insights [Capp street][capp-street] and [Barriers][barrier]
 
+[time-series]: https://localnewsmatters.org/2023/08/17/sex-work-and-the-city-policing-prostitution-in-san-francisco-reflects-evolving-attitudes/
+[capp-street]: https://www.sfgate.com/local/article/san-francisco-sex-workers-mission-17777619.php 
+[barrier]: https://www.nbcbayarea.com/news/local/san-francisco-mission-barriers-address-sex-work/3320123/
+
+
+
+
+
+# Extra stuff to be deleted
 
 
 figure {
