@@ -34,7 +34,7 @@ Here we will show heat map
 
 Here we show an interactive
 
-<iframe src="/asset/Bokeh.html" width="800" height="600"></iframe>
+<iframe src="/asset/Bokeh.html" width="805" height="600"></iframe>
 
 
 # External sources 
