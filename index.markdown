@@ -22,6 +22,12 @@ The dataset that we will be using for this project is called **Police Department
 
 Here we will show time series
 
+<figure>
+  <img src="/asset/images/timeseries2.png" alt="Time Series">
+  <figcaption>Times series for weekday, month, hour of day and year.</figcaption>
+</figure>
+
+
 ![crime](/asset/images/timeseries2.png)
 
 # Map visualization
