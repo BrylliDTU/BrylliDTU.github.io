@@ -28,8 +28,6 @@ Here we will show time series
 </figure>
 
 
-![crime](/asset/images/timeseries2.png)
-
 # Map visualization
 
 Here we will show heat map 
