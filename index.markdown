@@ -27,24 +27,43 @@ Here we will show time series
   <figcaption>Times series for weekday, month, hour of day and year.</figcaption>
 </figure>
 
+Observing the pattern of daily reported crimes, there's a noticeable trend where incidents gradually increase from Tuesday, peaking on Thursday, before declining again. Contrary to expectations that weekends might see the highest numbers, this midweek peak is quite intriguing. 
+
+When examining monthly crime reports, variations are minimal across the year. However, a slight dip during the summer months might reflect the busier schedules of individuals, while a modest uptick in January could be attributed to increased feelings of depression during the winter months. 
+
+Looking at the data on an hourly basis, reported crimes surge significantly from 8 pm to 1 am. This pattern aligns with expectations, considering the higher demand for prostitution during nighttime hours. 
+
+It's noteworthy that reports of prostitution crimes have been on a decline from 2007 to 2017. This trend may be linked to enhanced police surveillance in areas known for high prostitution activity and reflects a broader shift towards deprioritizing prostitution as a criminal issue by law enforcement. 
 
 # Map visualization
 
 Here we will show heat map 
 
-<iframe src="/asset/map.html" width="800" height="600"></iframe>
+<figure>
+  <iframe src="/asset/map.html" width="800" height="600"></iframe>
+  <figcaption>Reported crimes shown on map fer each district</figcaption>
+</figure>
+
+The map below displays San Francisco's districts outlined by borders, with yellow dots marking each reported prostitution incident over the years. The districts reporting the highest incidents—Mission and Northern—are notable, with Central and Tenderloin also showing significant activity. These areas' higher population densities and proximity to the city's nightlife offer some context for the higher report rates. 
+
+Capp Street in the Mission district, known for its association with sex work, has seen recent city efforts to deter such activities through physical barriers. 
 
 # Interactive visualization in Bokeh
 
 Here we show an interactive
 
-<iframe src="/asset/Bokeh2.html" width="800" height="600"></iframe>
+<figure>
+  <iframe src="/asset/Bokeh2.html" width="800" height="600"></iframe>
+  <figcaption>Reported crimes for hour of day depending on districts</figcaption>
+</figure>
 
+The interactive visualization clearly indicates that the Mission district reports the highest number of prostitution-related crimes, likely influenced by the notorious Capp Street. Additionally, in densely populated districts like Central, Northern, and Tenderloin, there's a noticeable volume of reports, further emphasizing the correlation between nightlife proximity and crime reports. 
 
 # External sources 
 
-Here we can find something to help with out insights
+Here you can find the source for time series insights [Time Series Insights][time-series].
 
+[time-series]: https://localnewsmatters.org/2023/08/17/sex-work-and-the-city-policing-prostitution-in-san-francisco-reflects-evolving-attitudes/
 
 
 
