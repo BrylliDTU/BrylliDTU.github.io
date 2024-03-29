@@ -6,7 +6,6 @@ layout: default
 title: Assignment 2 - Social Data | Group 63
 ---
 # Group Information
-## Group 63
 * Brynjar Karl Ævarsson - s232736@dtu.dk
 * Birkir Fanndal Sturluson - s2327XX@dtu.dk
 * Védís Sigríður Ingvarsdóttir - s2327XX@dtu.dk
