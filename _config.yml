@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: [Social Data | Assignment 2]
+title: [Social Data - Assignment 2 | Group 63]
 email: s232736@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Evaluation of reported prostitution crimes in the San Francisco area.
-  Group 63.
+  [Analysis of reported prostitution crimes in the San Francisco area.]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BrynjarK
