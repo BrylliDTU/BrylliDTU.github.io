@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Weekday crime analytics for SF"
 date:   2024-03-28 22:08:33 +0100
 categories: jekyll update
