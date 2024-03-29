@@ -29,7 +29,7 @@ twitter_username: BrynjarK
 github_username:  BrylliDTU
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
