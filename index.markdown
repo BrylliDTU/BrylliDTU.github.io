@@ -5,14 +5,20 @@
 layout: default
 ---
 
+# Introduction
+
+Over the last couple of years, the city of San Francisco has been gathering data on crimes and illegal activity in the Bay Area. This data has been made available to the public and has caught the interest of many, including us. 
+We, Birkir Fanndal, Brynjar Karl and Védís Sigríður, want to analyze this massive dataset by visualizing the data with graphs and plots to figure out some trends within the many categories of crime committed in San Francisco.
+The Crimes we want to focus on are .........
+
+Fill in text
+
 # Information about the Dataset
 
-The dataset that we will be using for this project is called **Police Department Incident Reports from 2003 to May 2018**
-
-
-Check out the where we got the dataset for the crimes at [Dataset Crimes][crime-data].
+The dataset that we will be using for this project is called **Police Department Incident Reports from 2003 to May 2018**. It includes 2.129.525 datapoints and 37 crime categories. Here you can access the dataset that will be used for this project: [Dataset Crimes][crime-data].
 
 [crime-data]: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
+
 
 
 
