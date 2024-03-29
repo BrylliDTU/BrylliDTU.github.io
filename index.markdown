@@ -9,7 +9,7 @@ layout: default
 
 Over the last couple of years, the city of San Francisco has been gathering data on crimes and illegal activity in the Bay Area. This data has been made available to the public and has caught the interest of many, including us. 
 We, Birkir Fanndal, Brynjar Karl and Védís Sigríður, want to analyze this massive dataset by visualizing the data with graphs and plots to figure out some trends within the many categories of crime committed in San Francisco.
-The crime that we decided to focus on is **prostitution** as it has an interesting trend. 
+In this short story we will be focusing on the crime of **prostitution**, where we will analyze the development and the trends of prostitution in San Francisco. We will utilize graphs and maps to identify and analyze the trends over the last couple of years.
 
 # Information about the Dataset
 
