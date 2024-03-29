@@ -13,6 +13,32 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+# Weekday count crimes 
+Here you can see the weekday counts of each of the focus crimes.
+
+![crime](/asset/images/weekdaycount.png)
+
+Here is how we calculated the weekday values.
+
+{% highlight ruby %}
+# Weekday plot
+focus_crimes_data["Weekday"] = crime_data["Date"].dt.day_name()
+weekday_counts_focus = focus_crimes_data.groupby(['Category', 'Weekday']).size().reset_index(name='Count')
+
+# Sorting the weekdays to be in the correct time series
+weekdays_ordered = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+weekday_counts_focus["Weekday"] = pd.Categorical(weekday_counts_focus["Weekday"], categories=weekdays_ordered, ordered=True)
+weekday_counts_focus = weekday_counts_focus.sort_values(by=["Weekday", "Category"])
+{% endhighlight %}
+
+Check out the where we got the dataset for the crimes at [Dataset Crimes][crime-data].
+
+[crime-data]: https://jekyllrb.com/docs/home
+
+
+
+
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
