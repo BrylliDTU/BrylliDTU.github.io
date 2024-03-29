@@ -22,7 +22,7 @@ The dataset that we will be using for this project is called **Police Department
 
 Here we will show time series
 
-![crime](/asset/images/timeseries.png)
+![crime](/asset/images/timeseries2.png)
 
 # Map visualization
 
@@ -34,7 +34,7 @@ Here we will show heat map
 
 Here we show an interactive
 
-<iframe src="/asset/Bokeh1.html" width="800" height="600"></iframe>
+<iframe src="/asset/Bokeh2.html" width="800" height="600"></iframe>
 
 
 # External sources 
