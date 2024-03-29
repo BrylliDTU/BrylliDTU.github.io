@@ -9,9 +9,7 @@ layout: default
 
 Over the last couple of years, the city of San Francisco has been gathering data on crimes and illegal activity in the Bay Area. This data has been made available to the public and has caught the interest of many, including us. 
 We, Birkir Fanndal, Brynjar Karl and Védís Sigríður, want to analyze this massive dataset by visualizing the data with graphs and plots to figure out some trends within the many categories of crime committed in San Francisco.
-The Crimes we want to focus on are .........
-
-Fill in text
+The crime that we decided to focus on is **prostitution** as it has an interesting trend. 
 
 # Information about the Dataset
 
@@ -19,6 +17,22 @@ The dataset that we will be using for this project is called **Police Department
 
 [crime-data]: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
 
+
+# Time series
+
+Here we will show time series
+
+# Map visualization
+
+Here we will show heat map 
+
+# Interactive visualization in Bokeh
+
+Here we show an interactive
+
+# External sources 
+
+Here we can find something to help with out insights
 
 
 
