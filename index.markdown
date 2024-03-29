@@ -22,6 +22,8 @@ The dataset that we will be using for this project is called **Police Department
 
 Here we will show time series
 
+![crime](/asset/images/timeseries.png)
+
 # Map visualization
 
 Here we will show heat map 
