@@ -42,11 +42,11 @@ It's noteworthy that reports of prostitution crimes have been on a decline from 
 
 # Map visualization
 
-The map below displays San Francisco's districts outlined by borders, with yellow dots marking each reported prostitution incident over the years. The districts reporting the highest incidents are Mission and Northern, with Central and Tenderloin also showing significant activity. These areas' higher population densities and proximity to the city's nightlife offer some context for the higher report rates [Capp street][capp-street].
+The map below displays San Francisco's districts outlined by borders, with yellow dots marking each reported prostitution incident over the years. The districts reporting the highest incidents are Mission and Northern, with Central and Tenderloin also showing significant activity. These areas' higher population densities and proximity to the city's nightlife offer some context for the higher report rates, see this article: [Capp street][capp-street].
 
-Northern's’ Polk Street has been reported as a street associated with sex work and the area around it, which includes Larkin Street in the Tenderloin district. That could explain why Tenderloin also shows a significant amount of prostitution activity. See this article [Polk Street][polk]
+Northern's’ Polk Street has been reported as a street associated with sex work and the area around it, which includes Larkin Street in the Tenderloin district. That could explain why Tenderloin also shows a significant amount of prostitution activity. See this article: [Polk Street][polk]
 
-Capp Street in the Mission district, known for its association with sex work, has seen recent city efforts to deter such activities through physical barriers [Barriers][barrier]. An overwhelming number of all prostitution related crimes in 2003 occurred in the area around Shotwell Street and Capp Street in the Mission district alone. Residents of Shotwell Street claim that the police patrol the area quite infrequently and that prostitution matters are simply low in priority for the police [Mission 2003][M2003].
+Capp Street in the Mission district, known for its association with sex work, has seen recent city efforts to deter such activities through physical barriers according to this article: [Barriers][barrier]. An overwhelming number of all prostitution related crimes in 2003 occurred in the area around Shotwell Street and Capp Street in the Mission district alone. Residents of Shotwell Street claim that the police patrol the area quite infrequently and that prostitution matters are simply low in priority for the police according to this article: [Mission 2003][M2003].
 
 <figure>
   <iframe src="/asset/map2.html" width="800" height="600"></iframe>
