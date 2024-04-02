@@ -7,8 +7,8 @@ title: Assignment 2 - Social Data | Group 63
 ---
 # Group Information
 * Brynjar Karl Ævarsson - s232736@dtu.dk
-* Birkir Fanndal Sturluson - s2327XX@dtu.dk
-* Védís Sigríður Ingvarsdóttir - s2327XX@dtu.dk
+* Birkir Fanndal Sturluson - s232729@dtu.dk
+* Védís Sigríður Ingvarsdóttir - s232719@dtu.dk
 
 # Introduction
 
@@ -28,7 +28,7 @@ The dataset that we will be using for this project is called **Police Department
 Here we will show time series
 
 <figure>
-  <img src="/asset/images/timeseries2.png" alt="Time Series">
+  <img src="/asset/images/timeseries3.png" alt="Time Series">
   <figcaption>Times series for weekday, month, hour of day and year.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ It's noteworthy that reports of prostitution crimes have been on a decline from 
 Here we will show heat map 
 
 <figure>
-  <iframe src="/asset/map.html" width="800" height="600"></iframe>
+  <iframe src="/asset/map2.html" width="800" height="600"></iframe>
   <figcaption>Reported crimes shown on map fer each district</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Capp Street in the Mission district, known for its association with sex work, ha
 Here we show an interactive
 
 <figure>
-  <iframe src="/asset/Bokeh2.html" width="800" height="600"></iframe>
+  <iframe src="/asset/Bokeh3.html" width="800" height="600"></iframe>
   <figcaption>Reported crimes for hour of day depending on districts</figcaption>
 </figure>
 
