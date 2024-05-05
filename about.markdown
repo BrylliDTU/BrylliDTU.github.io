@@ -1,15 +1,13 @@
 ---
 layout: default
-title: about
+title: Assignment 2 - Social Data | Group 63
 permalink: /finalproject/
 ---
 
----
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
----
 # Group Information
 * Brynjar Karl Ævarsson - s232736@dtu.dk
 * Birkir Fanndal Sturluson - s232729@dtu.dk
@@ -62,8 +60,9 @@ Capp Street in the Mission district, known for its association with sex work, ha
 
 # Interactive visualization in Bokeh
 
-The interactive visualization clearly indicates that the Mission district reports the highest number of prostitution-related crimes, likely influenced by the notorious Capp Street. Additionally, in densely populated districts like Central, Northern, and Tenderloin, there's a noticeable volume of reports, further emphasizing the correlation between nightlife proximity and crime reports. 
+The interactive visualization clearly indicates that the Mission district reports the highest number of prostitution-related crimes, likely influenced by the notorious Capp Street, which is known for alleged sex work, violence and crime. See the following article: [Capp Street alleged crimes][Cap2]
 
+The Mission district is a densely populated district, which is likely a significant reason for the high number of prostitution crimes in the district. Looking at some of the other densely populated areas, such as Central district, Northern district, Southern district and Tenderloin district, we can see that they have a relatively higher number of prostitution crimes in comparison to some of the more sparsely populated areas, such as Ingleside and Bayview. It is also interesting that in the district of Taraval the peak of prostitution crimes is around noon. 
 
 <figure>
   <iframe src="/asset/Bokeh3.html" width="800" height="600"></iframe>
@@ -77,11 +76,16 @@ Here you can find the source for time series insights [Time Series Insights][tim
 
 Here you can find the sources for the map insights [Capp street][capp-street], [Barriers][barrier], [Polk Street][polk] and [Mission 2003][M2003].
 
-Here you can find the sources for the Bokeh insights 
+Here you can find the source for the Bokeh insights [Capp Street alleged crimes][Cap2]
 
 [time-series]: https://localnewsmatters.org/2023/08/17/sex-work-and-the-city-policing-prostitution-in-san-francisco-reflects-evolving-attitudes/
 [capp-street]: https://www.sfgate.com/local/article/san-francisco-sex-workers-mission-17777619.php 
 [barrier]: https://www.nbcbayarea.com/news/local/san-francisco-mission-barriers-address-sex-work/3320123/
 [polk]: https://www.sfexaminer.com/news/san-francisco-police-crack-down-on-polk-street-prostitution/article_6ce939bb-52c5-508b-ac29-28adb35ecae8.html
 [M2003]: https://missionmuckracker.wordpress.com/2017/05/19/shotwell-street-the-missions-prostitution-corridor/
+[Cap2]: https://abc7news.com/capp-street-san-francisco-cappt-st-collapsible-bollards-sex-work-18th-sf-mission/13231169/
+
+
+
+
 
