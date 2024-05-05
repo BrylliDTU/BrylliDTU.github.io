@@ -4,10 +4,6 @@ title: Assignment 2 - Social Data | Group 63
 permalink: /finalproject/
 ---
 
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-
 # Group Information
 * Brynjar Karl Ævarsson - s232736@dtu.dk
 * Birkir Fanndal Sturluson - s232729@dtu.dk
