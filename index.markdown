@@ -75,9 +75,9 @@ Here you can find the sources for the map insights [Capp street][capp-street], [
 
 Here you can find the source for the Bokeh insights [Capp Street alleged crimes][Cap2]
 
-Here you can find the link to assignment 2 for our group [Assignment 2][ass2]
+Here you can find the link to the final project for our group [Final Project][final]
 
-[ass2]: https://bryllidtu.github.io/finalproject/
+[final]: https://bryllidtu.github.io/finalproject/
 [time-series]: https://localnewsmatters.org/2023/08/17/sex-work-and-the-city-policing-prostitution-in-san-francisco-reflects-evolving-attitudes/
 [capp-street]: https://www.sfgate.com/local/article/san-francisco-sex-workers-mission-17777619.php 
 [barrier]: https://www.nbcbayarea.com/news/local/san-francisco-mission-barriers-address-sex-work/3320123/
