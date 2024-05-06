@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assignment 2 - Social Data | Group 63
+title: Project Assignment B | Final Project | Group 36
 permalink: /finalproject/
 ---
 
