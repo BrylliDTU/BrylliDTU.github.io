@@ -78,6 +78,15 @@ For the first visualization for the individual teams themselves, we can look at 
 
 From this bar chart, we see that the team that has the highest average weekly attendance for their games are the Redskins. That could be due to high capacity of the stadium and popularity. It is interesting to see that the Los Angeles Rams have such high average weekly attendance, while in the total attendance they were pretty low. This might be because of a loyal fanbase that comes to watch them regularly.
 
+The graph below is an interactive graph made with plotly express to show each teams first win, if you hover over the data-points, you can see the team abbrivation and the date of their first win. This kind of graph can give important information about historical success.
+
+<figure>
+  <iframe src="/asset/first_wins.html" width="800" height="600"></iframe>
+  <figcaption>First wins for each team</figcaption>
+</figure>
+
+For the first win graph above, we have displayed information regarding the first win of each team since the year 2000. Pretty much all of the teams had their first fin at a similar time, except for the Los Angeles Chargers and the Houston Texans. This information is to understand the team's historical success better.
+
 # Conlusions and preferences
 
 
