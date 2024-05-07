@@ -23,11 +23,15 @@ All this information can be quite overwhelming for a new NFL viewer and when it 
 However, the audience outside of the USA often has no such ties to any teams in the NFL and would therefore rather support a team that has been doing good over the last few years or maybe a team that has been successful in the past.
 We want to analyze the performance of all 32 teams for the last 20 seasons to potentially give a new NFL-fan an idea of what team to support.
 
-# Information about the Dataset
+First, we'll explore the stadiums and fan engagement for each team to provide a glimpse into the unique atmosphere of each home stadium. Additionally, we'll delve into the weather conditions of the games to cater to the preferences of each new fan.
 
-The dataset that we will be using for this project is called **Police Department Incident Reports from 2003 to May 2018**. It includes 2.129.525 datapoints and 37 crime categories. Here you can access the dataset that will be used for this project: [Dataset Crimes][crime-data].
+Next, we'll focus on individual teams by examining their recent success over the past few years and analyzing the scores of each team. This comprehensive approach will help you select your favorite team, taking into account all these factors.
 
-[crime-data]: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
+# Stadiums
+
+
+
+
 
 
 # Time series
