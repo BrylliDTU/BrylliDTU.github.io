@@ -17,8 +17,7 @@ American football is the biggest sport in the United States of America, with the
 
 For you as a reader, all this information can be quite overwhelming for a new NFL viewer and when it comes to picking a team to support there are a lot of options to pick from. Some people have a favorite player and root for the team that said player plays for and some people root for their local team, or the team from their respective state or city. However, if you are an audience outside of the USA, you may not have such ties to any teams in the NFL and would therefore rather support a team that has been doing good over the last few years or maybe a team that has been successful in the past. We want to analyze the performance of all 32 teams for the last 20 seasons to potentially give a you, as new NFL-fan, an idea of what team to support.
 
-
-
+Please keep in mynd that the analysis here below was built on data from 2000 to 2019.
 
 # Stadiums
 
