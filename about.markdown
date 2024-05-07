@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Project Assignment B | Final Project | Group 36
+description: Hello
 permalink: /finalproject/
 ---
 
