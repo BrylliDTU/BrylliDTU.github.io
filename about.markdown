@@ -29,6 +29,10 @@ First, we'll explore the stadiums and fan engagement for each team to provide a 
   <figcaption>Map for stadiums</figcaption>
 </figure>
 
+In the map above, the locations of the stadium for each team is displayed. As a new, european fan, locations of the stadiums for each team may not matter as much to you as you don't live in the USA, but knowing in what state the stadium is in might give you some ideas on how the gameday spirit would look like and how many people would show - if you decide to take a quick trip to see a game.
+
+
+
 # Teams
 
 Next, we'll focus on individual teams by examining their recent success over the past few years and analyzing the scores of each team. This comprehensive approach will help you select your favorite team, taking into account all these factors.
