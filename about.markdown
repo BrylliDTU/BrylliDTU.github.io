@@ -39,8 +39,8 @@ In the map above, the locations of the stadium for each team is displayed. As a 
 Let's take a look at the total attendance for each stadium in the years 2000-2019 so you can get a feeling of how many attend each stadium. Let's note that the NYG/NYJ is used for two teams, which explains the high total attendance. This graph will give you an insight into which stadiums have drawn the largest crowds and how attendance can vary significantly from one venue to another.
 
 Key points to consider:
-* Dual-Use Stadium: Notably, the stadium shared by the New York Giants and New York Jets, commonly referred to in our data as NYG/NYJ, consistently shows higher attendance figures. This is because it serves as the home field for two teams, essentially doubling its exposure to fans throughout the NFL season.
-* Stadium Capacity: Attendance figures are heavily influenced by the capacity of each stadium. Larger stadiums can accommodate more fans, and this is often reflected in higher total attendance numbers. For example, venues like the MetLife Stadium in New Jersey, which hosts both the NY Giants and NY Jets, have a seating capacity that allows them to rank consistently high in attendance figures.
+* Dual-Use Stadium: The stadium shared by the New York Giants and New York Jets, referred to in our data as NYG/NYJ, consistently shows higher attendance figures. This is because it serves as the home field for two teams, essentially doubling its exposure to fans throughout the NFL season.
+* Stadium Capacity: Attendance figures are influenced by the capacity of each stadium. Larger stadiums can accommodate more fans, and this is often reflected in higher total attendance numbers. For example, venues like the LAC stadium, the home of the Los Angeles Chargers, has much less capacity compared to other stadiums, which reflects as a low total attendance in our graph.
 
 # Teams
 
