@@ -34,25 +34,27 @@ In the map above, the locations of the stadium for each team is displayed. As a 
 
 ## Stadium Attendance
 
+Let's take a look at the total attendance for each stadium in the years 2000-2019 so you can get a feeling of how many attend each stadium. This graph will give you an insight into which stadiums have drawn the largest crowds and how attendance can vary significantly from one venue to another.
+
 <figure>
   <img src="/asset/images/total_attend_per_stadium.png" alt="Total Attendance">
   <figcaption>Total attendance per NFL stadium.</figcaption>
 </figure>
 
-Let's take a look at the total attendance for each stadium in the years 2000-2019 so you can get a feeling of how many attend each stadium. Let's note that the NYG/NYJ is used for two teams, which explains the high total attendance. This graph will give you an insight into which stadiums have drawn the largest crowds and how attendance can vary significantly from one venue to another.
-
-Key points to consider:
+Key points for you to consider from this graph:
 * Dual-Use Stadium: The stadium shared by the New York Giants and New York Jets, referred to in our data as NYG/NYJ, consistently shows higher attendance figures. This is because it serves as the home field for two teams, essentially doubling its exposure to fans throughout the NFL season.
-* Stadium Capacity: Attendance figures are influenced by the capacity of each stadium. Larger stadiums can accommodate more fans, and this is often reflected in higher total attendance numbers. For example, venues like the LAC stadium, the home of the Los Angeles Chargers, has much less capacity compared to other stadiums, which reflects as a low total attendance in our graph.
+* Stadium Capacity: Attendance figures are influenced by the capacity of each stadium. Larger stadiums can accommodate more fans, and this is often reflected in higher total attendance numbers. For example, venues like the LAC stadium, the home of the Los Angeles Chargers and the Rams, located in Inglewood, has much less capacity than other stadiums, which results in a lower total attendance. 
 
 ## Weather Conditions at NFL Stadiums
+
+As a fan, whether you're watching a game from your living room or you're cheering in the stands, knowing the weather conditions can motivate you when choosing what team you would want to travel for. Think of it like this, do you want to travel to go see your new team play a game on their home stadium? Then perhaps the average weather conditions influence you in where you would travel. The graph below shows us the average wind speed as well as the average temperature for each home team stadium. 
 
 <figure>
   <iframe src="/asset/average_weather_per_stadium.html" width="800" height="600"></iframe>
   <figcaption>Average weather per NFL stadium</figcaption>
 </figure>
 
-As a fan, whether you're watching a game from your living room or you're cheering in the stands, knowing the weather can help you prepare for the game. For stadium-goers, understanding typical weather patterns can influence everything from apparel choices to tailgating plans. Meanwhile, at-home viewers will find that commentators often discuss weather impacts on the game’s strategy, adding an extra layer of depth to broadcasts.Think of it like this, do you want to travel to go see your new team play a game on their home stadium? Then perhaps the average weather conditions influence you in where you would travel. The graph above shows us the average wind speed as well as the average temperature for each home team stadium. 
+From the weather conditions graph, we can see that the average temperate is highest for the Miami Dolphins, which would be expected as the stadium is located in the sunny Miami state. Let's note that it is a very personal preference on what type of weather fans like to have while sitting in the stands. While the temperature is hot in Miami, the wind does pick up. It is especially windy for the Atlanta stadium, which might not be good weather conditions for sitting and watching a game. 
 
 # Teams
 
@@ -80,7 +82,7 @@ In this interactive graph, we've displayed the home win rates for each NFL team 
 
 ## Historcal Win Rate for Each Team
 
-The next graph  illustrates the distribution of the home win rate by stadiums to gain another angle. From both of the graphs, we see that the team that has the highest percentage of home wins at their home stadium are the New England Patriots which are located in Boston. While the New Englan Patriots are successfully maintaining their high home winning rate, the Cleveland Browns have the lowest home win rate percentage.
+This graph illustrates the distribution of the home win rate by stadiums to gain another angle. From both of the graphs, we see that the team that has the highest percentage of home wins at their home stadium are the New England Patriots which are located in Boston. While the New Englan Patriots are successfully maintaining their high home winning rate, the Cleveland Browns have the lowest home win rate percentage.
 
 <figure>
   <img src="/asset/images/home_win_rate.png" alt="home_win_rate">
@@ -89,39 +91,46 @@ The next graph  illustrates the distribution of the home win rate by stadiums to
 
 ## First wins
 
-The graph below is an interactive graph made with plotly express to show each teams first win, if you hover over the data-points, you can see the team abbrivation and the date of their first win. This kind of graph can give important information about historical success.
-
 <figure>
   <iframe src="/asset/first_wins.html" width="800" height="600"></iframe>
   <figcaption>First wins for each team</figcaption>
 </figure>
 
-For the first win graph above, we have displayed information regarding the first win of each team since the year 2000. Pretty much all of the teams had their first fin at a similar time, except for the Los Angeles Chargers and the Houston Texans. This information is to understand the team's historical success better.
+For the first win graph above, we have displayed information regarding the first win of each team since the year 2000. Pretty much all of the teams had their first fin at a similar time, except for the Los Angeles Chargers and the Houston Texans. We want to bring to attention that the Houston Texans were founded in 2002, so their first win is the same year as their first year. This information is to understand the team's historical success better.
 
 ## Wins Per Season with Trends
+
+The graph below is an interactive graph which shows the wins per season for each team. To select a team, simply scroll to the right and click the team you want to display on the graph. The trendline can also be seen on the graph, which is a good indicator to see in what direction the team is going regarding wins. 
 
 <figure>
   <iframe src="/asset/wins_per_season.html" width="800" height="600"></iframe>
   <figcaption>Interactive graph for wins per season</figcaption>
 </figure>
 
+If we analyse the results from this graph, it is a good indicator which teams have a successful winning streak historically by looking at the direction of the trendline. For example, if we look at the Houston Texans, we can see that their trendline has a upwards pointing trendline and indicates a good amount of wins throughout the seasons.
+
+
 ## Average Wins Per Season for Each Team
 
-Here below you can see average wins per season for each team.
+Next, we are going to look at a more statistical visualizations regarding to the average wins of each team. If the team is above the median line, the team is performing half the better than half of the teams, while those below are underperforming in relation to the median. Also, the teams closer to the upper quartile are showing stronger performances constistently.
 
 <figure>
   <iframe src="/asset/average_wins_per_team.html" width="800" height="600"></iframe>
   <figcaption>Average wins per season for each teamn</figcaption>
 </figure>
 
+As you can see, the New England Patriots are way above the upper quartile, indicating a good performance. This must not come as a surprise, as we have stablished their success before in this article. 
+
 ## High Scoring Teams
 
-Here below you can see the high scoring percentage for teams that score over 50 points.
+Now, we can analyse how much the teams actually score, which is the most thrilling to most fans. Below we have put a threshold of 50 points and set up a graph that displays the percentage of high scoring games by each team.
 
 <figure>
   <img src="/asset/images/high_scoring_games.png" alt="high_score">
   <figcaption>Percentage of teams that have had games where they score over 50 points.</figcaption>
 </figure>
+
+From this graph, a suprising twist is revealed as the New Orelans Saint come out on top. This could be a major factor for you as a fan, if you want some exciting high scoring games and the thrill.
 
 # Conlusions and Recommendations
 
