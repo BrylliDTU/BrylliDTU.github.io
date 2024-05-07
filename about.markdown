@@ -4,9 +4,9 @@ title: NFL Fan Starter Guide
 description: Embark on your journey into the exhilarating realm of American football with our comprehensive guide tailored for new fans seeking to navigate the dynamic world of the NFL!
 permalink: /finalproject/
 ---
-# Project Assignment B | Final Project | Group 36
+# Project Assignment B | Final Project 
 
-# Group Information
+# Group 36
 * Brynjar Karl Ævarsson - s232736@dtu.dk
 * Birkir Fanndal Sturluson - s232729@dtu.dk
 * Védís Sigríður Ingvarsdóttir - s232719@dtu.dk
