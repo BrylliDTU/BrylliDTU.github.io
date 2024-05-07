@@ -106,7 +106,23 @@ Here below you can see the high scoring percentage for teams that score over 50 
   <figcaption>Percentage of teams that have had games where they score over 50 points.</figcaption>
 </figure>
 
-# Conlusions and preferences
+# Conlusions
+
+As you embark on your journey into the exciting world of American football, armed with insights into team performance, stadium atmospheres, and fan engagement, you're now better equipped to select the perfect NFL team to support. From analyzing historical data to exploring interactive visualizations, our guide has provided valuable insights to help you make an informed decision.
+
+# Recommendations
+
+Explore our recommendations below, or simply choose your own team that you particularly like, and enjoy your journey to becoming a devoted fan of the NFL.
+
+
+## New England Patriots (NE)
+If you're seeking to support a well-established franchise that has consistently proven successful and victorious over the years, we recommend rooting for the New England Patriots (NE). They boast the highest winning percentage at their home stadium, lead in average wins among all NFL teams, and have clinched multiple Super Bowl victories. The Patriots also excel in high-scoring games per season, promising an exhilarating viewing experience. Additionally, their stadium is conveniently located just outside of Boston, Massachusetts, a popular tourist destination.
+
+## New Orleans Saints (NO)
+If action-packed games with high scores are your preference, then the New Orleans Saints (NO) are the team for you. They lead the league in high-scoring games and are among the top-performing teams, consistently ranking in the upper quartile for average wins per season.
+
+## Los Angeles Rams (LA)
+For fans who enjoy good weather, vibrant cities, and iconic locations for game days, we recommend supporting the LA Rams (LA). Situated in Los Angeles, with its array of famous landmarks and favorable year-round weather, the Rams offer a unique game day experience. Despite their favorable location, it's worth noting that the Rams rank among the lower-performing teams in the league, so consider your preferences carefully before making them your NFL team of choice.
 
 
 # External sources 
