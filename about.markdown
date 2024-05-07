@@ -24,12 +24,16 @@ For you as a reader, all this information can be quite overwhelming for a new NF
 
 First, we'll explore the stadiums and fan engagement for each team to provide a glimpse into the unique atmosphere of each home stadium. Additionally, we'll delve into the weather conditions of the games to cater to the preferences of each new fan.
 
+## Geographical visualizations
+
 <figure>
   <iframe src="/asset/map1.html" width="800" height="600"></iframe>
   <figcaption>Geographical map for NFL stadiums</figcaption>
 </figure>
 
 In the map above, the locations of the stadium for each team is displayed. As a new, european fan, locations of the stadiums for each team may not matter as much to you as you don't live in the USA, but knowing in what state the stadium is in might give you some ideas on how the gameday spirit would look like and how many people would show - if you decide to take a quick trip to see a game.
+
+## Stadium Attendance
 
 <figure>
   <img src="/asset/images/total_attend_per_stadium.png" alt="Total Attendance">
@@ -41,6 +45,8 @@ Let's take a look at the total attendance for each stadium in the years 2000-201
 Key points to consider:
 * Dual-Use Stadium: The stadium shared by the New York Giants and New York Jets, referred to in our data as NYG/NYJ, consistently shows higher attendance figures. This is because it serves as the home field for two teams, essentially doubling its exposure to fans throughout the NFL season.
 * Stadium Capacity: Attendance figures are influenced by the capacity of each stadium. Larger stadiums can accommodate more fans, and this is often reflected in higher total attendance numbers. For example, venues like the LAC stadium, the home of the Los Angeles Chargers, has much less capacity compared to other stadiums, which reflects as a low total attendance in our graph.
+
+## Weather at the stadiums
 
 <figure>
   <iframe src="/asset/average_weather_per_stadium.html" width="800" height="600"></iframe>
@@ -69,6 +75,8 @@ The next graph  illustrates the distribution of the home win rate by stadiums to
 
 Next, we'll focus on individual teams by examining their recent success over the past few years and analyzing the scores of each team. This comprehensive approach will help you select your favorite team, taking into account all these factors.
 
+## Weekly Team Attendance
+
 For the first visualization for the individual teams themselves, we can look at the average weekly attendance for each team. The weekly attendance can give you a better idea on how popular the teams really are. Again, we want to emphasize the fact that the team's stadiums have different capacities.
 
 <figure>
@@ -78,6 +86,26 @@ For the first visualization for the individual teams themselves, we can look at 
 
 From this bar chart, we see that the team that has the highest average weekly attendance for their games are the Redskins. That could be due to high capacity of the stadium and popularity. It is interesting to see that the Los Angeles Rams have such high average weekly attendance, while in the total attendance they were pretty low. This might be because of a loyal fanbase that comes to watch them regularly.
 
+## Geographical Historical Team's Success
+
+<figure>
+  <iframe src="/asset/home_win_rate_map.html" width="800" height="600"></iframe>
+  <figcaption>Win rates for each home team map</figcaption>
+</figure>
+
+In this interactive graph, we've displayed the home win rates for each NFL team in their own stadiums. This visualization can capture the spirit of the game and the  edge that teams may gain in their home stadium. As you explore and hover over this graph, you'll see how different teams leverage their home field advantage, which can vary from one team to another based on factors like crowd support, familiar playing conditions, and even weather. Whether you’re a seasoned fan or new to the NFL, this graph offers a valuable insight into the advantage of playing at home. 
+
+## Historcal Win rate for each team
+
+The next graph  illustrates the distribution of the home win rate by stadiums to gain another angle. From both of the graphs, we see that the team that has the highest percentage of home wins at their home stadium are the New England Patriots which are located in Boston. While the New Englan Patriots are successfully maintaining their high home winning rate, the Cleveland Browns have the lowest home win rate percentage.
+
+<figure>
+  <img src="/asset/images/home_win_rate.png" alt="home_win_rate">
+  <figcaption>Win rates for each home team.</figcaption>
+</figure>
+
+## First wins
+
 The graph below is an interactive graph made with plotly express to show each teams first win, if you hover over the data-points, you can see the team abbrivation and the date of their first win. This kind of graph can give important information about historical success.
 
 <figure>
@@ -86,6 +114,8 @@ The graph below is an interactive graph made with plotly express to show each te
 </figure>
 
 For the first win graph above, we have displayed information regarding the first win of each team since the year 2000. Pretty much all of the teams had their first fin at a similar time, except for the Los Angeles Chargers and the Houston Texans. This information is to understand the team's historical success better.
+
+## More data on wins and scores
 
 <figure>
   <iframe src="/asset/wins_per_season.html" width="800" height="600"></iframe>
