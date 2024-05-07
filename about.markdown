@@ -26,7 +26,7 @@ First, we'll explore the stadiums and fan engagement for each team to provide a 
 
 <figure>
   <iframe src="/asset/map1.html" width="800" height="600"></iframe>
-  <figcaption>Reported crimes shown on map fer each district</figcaption>
+  <figcaption>Map for stadiums</figcaption>
 </figure>
 
 # Teams
