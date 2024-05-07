@@ -55,22 +55,6 @@ Key points to consider:
 
 As a fan, whether you're watching a game from your living room or you're cheering in the stands, knowing the weather can help you prepare for the game. For stadium-goers, understanding typical weather patterns can influence everything from apparel choices to tailgating plans. Meanwhile, at-home viewers will find that commentators often discuss weather impacts on the game’s strategy, adding an extra layer of depth to broadcasts.Think of it like this, do you want to travel to go see your new team play a game on their home stadium? Then perhaps the average weather conditions influence you in where you would travel. The graph above shows us the average wind speed as well as the average temperature for each home team stadium. 
 
-<figure>
-  <iframe src="/asset/home_win_rate_map.html" width="800" height="600"></iframe>
-  <figcaption>Win rates for each home team map</figcaption>
-</figure>
-
-In this interactive graph, we've displayed the home win rates for each NFL team in their own stadiums. This visualization can capture the spirit of the game and the  edge that teams may gain in their home stadium. As you explore and hover over this graph, you'll see how different teams leverage their home field advantage, which can vary from one team to another based on factors like crowd support, familiar playing conditions, and even weather. Whether you’re a seasoned fan or new to the NFL, this graph offers a valuable insight into the advantage of playing at home. 
-
-The next graph  illustrates the distribution of the home win rate by stadiums to gain another angle. From both of the graphs, we see that the team that has the highest percentage of home wins at their home stadium are the New England Patriots which are located in Boston. While the New Englan Patriots are successfully maintaining their high home winning rate, the Cleveland Browns have the lowest home win rate percentage.
-
-<figure>
-  <img src="/asset/images/home_win_rate.png" alt="home_win_rate">
-  <figcaption>Win rates for each home team.</figcaption>
-</figure>
-
-
-
 # Teams
 
 Next, we'll focus on individual teams by examining their recent success over the past few years and analyzing the scores of each team. This comprehensive approach will help you select your favorite team, taking into account all these factors.
