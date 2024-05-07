@@ -12,9 +12,16 @@ permalink: /finalproject/
 
 # Introduction
 
-Over the last couple of years, the city of San Francisco has been gathering data on crimes and illegal activity in the Bay Area. This data has been made available to the public and has caught the interest of many, including us. 
-We, Birkir Fanndal, Brynjar Karl and Védís Sigríður, want to analyze this massive dataset by visualizing the data with graphs and plots to figure out some trends within the many categories of crime committed in San Francisco.
-In this short story we will be focusing on the crime of **prostitution**, where we will analyze the development and the trends of prostitution in San Francisco. We will utilize graphs and maps to identify and analyze the trends over the last couple of years.
+American football is the biggest sport in the United States of America, with the National Football League(NFL) being the big stage where 32 teams compete each season to win the much coveted Superbowl. 
+
+The anatomy of the NFL can be quite confusing for those not familiar with how it works. 
+The 32 teams are split into two conferences - the American Football Conference (AFC) and the National Football Conference (NFC). The 16 teams in each conference are split into 4 divisions; East, North, South and West divisions, with all divisions having 4 teams.
+Each regular season spans 18 weeks and each team plays 17 games over those weeks. Those 17 games consist of 6 games against divisional opponents, 4 games against teams from a division within its conference, 4 games against teams from a division in the other conference and 2 games against teams from the two remaining divisions in its conference. Then each team plays an additional game against a non-conference team that they are not scheduled to play.(1)
+
+
+All this information can be quite overwhelming for a new NFL viewer and when it comes to picking a team to support there are a lot of options to pick from. Some people have a favorite player and root for the team that said player plays for and some people root for their local team, or the team from their respective state or city.
+However, the audience outside of the USA often has no such ties to any teams in the NFL and would therefore rather support a team that has been doing good over the last few years or maybe a team that has been successful in the past.
+We want to analyze the performance of all 32 teams for the last 20 seasons to potentially give a new NFL-fan an idea of what team to support.
 
 # Information about the Dataset
 
