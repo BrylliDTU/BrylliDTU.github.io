@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b88f57a3c8cd460c4db02dafc819c6ae {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_b88f57a3c8cd460c4db02dafc819c6ae" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_b88f57a3c8cd460c4db02dafc819c6ae = L.map(
+                "map_b88f57a3c8cd460c4db02dafc819c6ae",
+                {
+                    center: [37.88128318842975, -89.09017410082645],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4.4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_fa10e57dee8c1947402bbde4b209df9f = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_fa10e57dee8c1947402bbde4b209df9f.addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            var marker_de9dd9a6bebdc163fc5e6ce3735f52dd = L.marker(
+                [42.773739, -78.786978],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_de9dd9a6bebdc163fc5e6ce3735f52dd.bindTooltip(
+                `<div>
+                     BUF Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cd1e964bcb8343dd26ddbb61c14f8cd3 = L.marker(
+                [35.225808, -80.852861],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_cd1e964bcb8343dd26ddbb61c14f8cd3.bindTooltip(
+                `<div>
+                     CAR Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6c82c84e937e7e9589b9c3a3d5505cee = L.marker(
+                [41.862306, -87.616672],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_6c82c84e937e7e9589b9c3a3d5505cee.bindTooltip(
+                `<div>
+                     CHI Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2ad24addec6c9825b0c8369bf07d3639 = L.marker(
+                [32.747778, -97.092778],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_2ad24addec6c9825b0c8369bf07d3639.bindTooltip(
+                `<div>
+                     DAL Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c488262e07cd6e76cbe0d77bf53d0b33 = L.marker(
+                [39.743936, -105.020097],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_c488262e07cd6e76cbe0d77bf53d0b33.bindTooltip(
+                `<div>
+                     DEN Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cb3c821d9ae3a0f329728059d9c43875 = L.marker(
+                [44.501306, -88.062167],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_cb3c821d9ae3a0f329728059d9c43875.bindTooltip(
+                `<div>
+                     GB Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3cba7f03fe84f6f3138db0b64515e485 = L.marker(
+                [30.323925, -81.637356],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_3cba7f03fe84f6f3138db0b64515e485.bindTooltip(
+                `<div>
+                     JAX Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2e463a466fae942e527196f7485223de = L.marker(
+                [39.048914, -94.484039],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_2e463a466fae942e527196f7485223de.bindTooltip(
+                `<div>
+                     KC Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_69178dbac89db4312bddaed232f32fc8 = L.marker(
+                [44.973881, -93.258094],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_69178dbac89db4312bddaed232f32fc8.bindTooltip(
+                `<div>
+                     MIN Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e35d95e2ff057712040dc47697731e2d = L.marker(
+                [42.090925, -71.26435],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_e35d95e2ff057712040dc47697731e2d.bindTooltip(
+                `<div>
+                     NE Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d7f48f4b95ba9507bb5918b1964ca5e4 = L.marker(
+                [40.812194, -74.076983],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_d7f48f4b95ba9507bb5918b1964ca5e4.bindTooltip(
+                `<div>
+                     NYG/NYJ Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_06d3850c4e5ee6d41d3dd518f97848fe = L.marker(
+                [39.900775, -75.167453],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_06d3850c4e5ee6d41d3dd518f97848fe.bindTooltip(
+                `<div>
+                     PHI Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a8268439ff5b1cc9740fbf66ece422b5 = L.marker(
+                [40.446786, -80.015761],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_a8268439ff5b1cc9740fbf66ece422b5.bindTooltip(
+                `<div>
+                     PIT Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_72b43bccfb829566a5eaecccb40b1138 = L.marker(
+                [38.907697, -76.864517],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_72b43bccfb829566a5eaecccb40b1138.bindTooltip(
+                `<div>
+                     WAS Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e5a9c707fb03389df94afa444fa652c6 = L.marker(
+                [33.757614, -84.400972],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_e5a9c707fb03389df94afa444fa652c6.bindTooltip(
+                `<div>
+                     ATL Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_98b8f8d7f98e63800edfe17219197014 = L.marker(
+                [41.506022, -81.699564],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_98b8f8d7f98e63800edfe17219197014.bindTooltip(
+                `<div>
+                     CLE Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0711cf468156eb8887e9255e0f6652c0 = L.marker(
+                [29.950931, -90.081364],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_0711cf468156eb8887e9255e0f6652c0.bindTooltip(
+                `<div>
+                     NO Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5952ffbbf71bd8b96e9956ad4142b326 = L.marker(
+                [25.957919, -80.238842],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_5952ffbbf71bd8b96e9956ad4142b326.bindTooltip(
+                `<div>
+                     MIA Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_81ddb16af3b83777e8ad5fcddebc4bde = L.marker(
+                [37.751411, -122.200889],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_81ddb16af3b83777e8ad5fcddebc4bde.bindTooltip(
+                `<div>
+                     OAK Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_85945898b259a315475d32b24f291f13 = L.marker(
+                [39.760056, -86.163806],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_85945898b259a315475d32b24f291f13.bindTooltip(
+                `<div>
+                     IND Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c6b6cabb9d2671363a7ee2540fcad417 = L.marker(
+                [39.277969, -76.622767],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_c6b6cabb9d2671363a7ee2540fcad417.bindTooltip(
+                `<div>
+                     BAL Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_51d358c2fa4f8f6cb786497f0227445c = L.marker(
+                [39.095442, -84.516039],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_51d358c2fa4f8f6cb786497f0227445c.bindTooltip(
+                `<div>
+                     CIN Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6fd18e21b8606c5a1f581802c00fa5a9 = L.marker(
+                [27.975967, -82.50335],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_6fd18e21b8606c5a1f581802c00fa5a9.bindTooltip(
+                `<div>
+                     TB Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ce50e7d013ad1b806e2b8e21093d7e85 = L.marker(
+                [36.166461, -86.771289],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_ce50e7d013ad1b806e2b8e21093d7e85.bindTooltip(
+                `<div>
+                     TEN Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9d750e7dda6e9b8c9a07db514135282f = L.marker(
+                [42.340156, -83.045808],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_9d750e7dda6e9b8c9a07db514135282f.bindTooltip(
+                `<div>
+                     DET Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_46bf2186107a5b6ce9a02e45b69f591b = L.marker(
+                [47.595153, -122.331625],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_46bf2186107a5b6ce9a02e45b69f591b.bindTooltip(
+                `<div>
+                     SEA Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_44b296409f9fc112e0fa07ae81e71722 = L.marker(
+                [37.713486, -122.386256],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_44b296409f9fc112e0fa07ae81e71722.bindTooltip(
+                `<div>
+                     SF Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a60b0bc3df58f65be5c739a1422d88e9 = L.marker(
+                [33.5277, -112.262608],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_a60b0bc3df58f65be5c739a1422d88e9.bindTooltip(
+                `<div>
+                     ARI Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5f9691d000523db0b19796f8481ca731 = L.marker(
+                [29.684781, -95.410956],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_5f9691d000523db0b19796f8481ca731.bindTooltip(
+                `<div>
+                     HOU Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_74b12aa3c82fd8b33b4451d89b8724b2 = L.marker(
+                [38.632975, -90.188547],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_74b12aa3c82fd8b33b4451d89b8724b2.bindTooltip(
+                `<div>
+                     LA Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_051f3509fbd51684f89b2bdd5f80bc23 = L.marker(
+                [32.783117, -117.119525],
+                {}
+            ).addTo(map_b88f57a3c8cd460c4db02dafc819c6ae);
+        
+    
+            marker_051f3509fbd51684f89b2bdd5f80bc23.bindTooltip(
+                `<div>
+                     LAC Stadium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
