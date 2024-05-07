@@ -24,6 +24,10 @@ For you as a reader, all this information can be quite overwhelming for a new NF
 
 First, we'll explore the stadiums and fan engagement for each team to provide a glimpse into the unique atmosphere of each home stadium. Additionally, we'll delve into the weather conditions of the games to cater to the preferences of each new fan.
 
+<figure>
+  <iframe src="/asset/map1.html" width="800" height="600"></iframe>
+  <figcaption>Reported crimes shown on map fer each district</figcaption>
+</figure>
 
 # Teams
 
