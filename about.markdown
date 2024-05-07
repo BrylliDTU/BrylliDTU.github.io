@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Assignment B | Final Project | Group 36
-description: Hello
+description: Embark on your journey into the exhilarating realm of American football with our comprehensive guide tailored for new fans seeking to navigate the dynamic world of the NFL!
 permalink: /finalproject/
 ---
 
