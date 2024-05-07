@@ -140,7 +140,7 @@ Explore our recommendations below, or simply choose your own team that you parti
 
 
 ## New England Patriots (NE)
-If you're seeking to support a well-established franchise that has consistently proven successful and victorious over the years, we recommend rooting for the New England Patriots (NE). They boast the highest winning percentage at their home stadium, lead in average wins among all NFL teams, and have clinched multiple Super Bowl victories. The Patriots also excel in high-scoring games per season, promising an exhilarating viewing experience. Additionally, their stadium is conveniently located just outside of Boston, Massachusetts, a popular tourist destination.
+If you're seeking to support a well-established franchise that has consistently proven successful and victorious over the years, we recommend rooting for the New England Patriots (NE). They boast the highest winning percentage at their home stadium, lead in average wins per seasons, and have clinched multiple Super Bowl victories. The Patriots also excel in high-scoring games per season, promising an exhilarating viewing experience. Additionally, their stadium is conveniently located just outside of Boston, Massachusetts, a popular tourist destination.
 
 ## New Orleans Saints (NO)
 If action-packed games with high scores are your preference, then the New Orleans Saints (NO) are the team for you. They lead the league in high-scoring games and are among the top-performing teams, consistently ranking in the upper quartile for average wins per season.
