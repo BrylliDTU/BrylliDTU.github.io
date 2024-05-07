@@ -31,6 +31,17 @@ Next, we'll focus on individual teams by examining their recent success over the
 
 
 
+# Teams
+
+
+## Wins
+
+
+## Score
+
+
+
+# Conlusions and preferences
 
 
 
