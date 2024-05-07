@@ -16,7 +16,7 @@ American football is the biggest sport in the United States of America, with the
 
 The anatomy of the NFL can be quite confusing for those not familiar with how it works. 
 The 32 teams are split into two conferences - the American Football Conference (AFC) and the National Football Conference (NFC). The 16 teams in each conference are split into 4 divisions; East, North, South and West divisions, with all divisions having 4 teams.
-Each regular season spans 18 weeks and each team plays 17 games over those weeks. Those 17 games consist of 6 games against divisional opponents, 4 games against teams from a division within its conference, 4 games against teams from a division in the other conference and 2 games against teams from the two remaining divisions in its conference. Then each team plays an additional game against a non-conference team that they are not scheduled to play [NFL Schedule][nflSchedule].
+Each [regular season][nflSchedule] spans 18 weeks and each team plays 17 games over those weeks. Those 17 games consist of 6 games against divisional opponents, 4 games against teams from a division within its conference, 4 games against teams from a division in the other conference and 2 games against teams from the two remaining divisions in its conference. Then each team plays an additional game against a non-conference team that they are not scheduled to play.
 
 
 All this information can be quite overwhelming for a new NFL viewer and when it comes to picking a team to support there are a lot of options to pick from. Some people have a favorite player and root for the team that said player plays for and some people root for their local team, or the team from their respective state or city.
@@ -76,7 +76,7 @@ The Mission district is a densely populated district, which is likely a signific
 
 # External sources 
 
-Here you can find the source for the NFL schedule [NFL Schedule][nflSchedule]
+Here you can find the source for the NFL schedule [regular season][nflSchedule]
 
 [nflSchedule]: https://operations.nfl.com/gameday/nfl-schedule/creating-the-nfl-schedule/#:~:text=THE%20ANATOMY%20OF%20THE%20NFL%20SCHEDULE&text=Every%20team%20will%20play%2017,games%20in%20the%202023%20season
 
