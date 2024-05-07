@@ -92,7 +92,19 @@ For the first win graph above, we have displayed information regarding the first
   <figcaption>Interactive graph for wins per season</figcaption>
 </figure>
 
+Here below you can see average wins per season for each team.
 
+<figure>
+  <iframe src="/asset/average_wins_per_team.html" width="800" height="600"></iframe>
+  <figcaption>Average wins per season for each teamn</figcaption>
+</figure>
+
+Here below you can see the high scoring percentage for teams that score over 50 points.
+
+<figure>
+  <img src="/asset/images/high_scoring_games.png" alt="high_score">
+  <figcaption>Percentage of teams that have had games where they score over 50 points.</figcaption>
+</figure>
 
 # Conlusions and preferences
 
