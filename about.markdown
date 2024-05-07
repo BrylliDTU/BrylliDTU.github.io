@@ -51,12 +51,18 @@ As a fan, whether you're watching a game from your living room or you're cheerin
 
 <figure>
   <iframe src="/asset/home_win_rate_map.html" width="800" height="600"></iframe>
-  <figcaption>Win rates for each home team</figcaption>
+  <figcaption>Win rates for each home team map</figcaption>
 </figure>
 
 In this interactive graph, we've displayed the home win rates for each NFL team in their own stadiums. This visualization can capture the spirit of the game and the  edge that teams may gain in their home stadium. As you explore and hover over this graph, you'll see how different teams leverage their home field advantage, which can vary from one team to another based on factors like crowd support, familiar playing conditions, and even weather. Whether you’re a seasoned fan or new to the NFL, this graph offers a valuable insight into the advantage of playing at home. 
 
 The next graph  illustrates the distribution of the home win rate by stadiums to gain another angle. From both of the graphs, we see that the team that has the highest percentage of home wins at their home stadium are the New England Patriots which are located in Boston. While the New Englan Patriots are successfully maintaining their high home winning rate, the Cleveland Browns have the lowest home win rate percentage.
+
+<figure>
+  <img src="/asset/images/home_win_rate.png" alt="home_win_rate">
+  <figcaption>Win rates for each home team.</figcaption>
+</figure>
+
 
 
 # Teams
