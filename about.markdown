@@ -76,11 +76,20 @@ The Mission district is a densely populated district, which is likely a signific
 
 # External sources 
 
-Here you can find the source for the NFL schedule [regular season][nflSchedule]
+Here you can find the source for the [regular season][nflSchedule]
+
+Here you can find the source for the dataset: [NFL game attendance][gameAttend]
+
+Here you can find the source for the dataset: [NFL games][games]
+
+Here you can find the source for the dataset: [NFL Stadium Coordinates][nflStad]
 
 [nflSchedule]: https://operations.nfl.com/gameday/nfl-schedule/creating-the-nfl-schedule/#:~:text=THE%20ANATOMY%20OF%20THE%20NFL%20SCHEDULE&text=Every%20team%20will%20play%2017,games%20in%20the%202023%20season
+[gameAttend]: https://www.kaggle.com/datasets/sujaykapadnis/nfl-stadium-attendance-dataset
 
+[games]: https://github.com/nflverse/nfldata/blob/master/data/games.csv
 
+[nflStad]: https://www.kaggle.com/datasets/rusiano/nfl-stadiums
 
 
 
