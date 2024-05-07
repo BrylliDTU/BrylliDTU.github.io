@@ -69,13 +69,14 @@ The next graph  illustrates the distribution of the home win rate by stadiums to
 
 Next, we'll focus on individual teams by examining their recent success over the past few years and analyzing the scores of each team. This comprehensive approach will help you select your favorite team, taking into account all these factors.
 
+For the first visualization for the individual teams themselves, we can look at the average weekly attendance for each team. The weekly attendance can give you a better idea on how popular the teams really are. Again, we want to emphasize the fact that the team's stadiums have different capacities.
 
-## Wins
+<figure>
+  <img src="/asset/images/average_weekly_attend_team.png" alt="ave_attend">
+  <figcaption>Average weekly attendance for each team.</figcaption>
+</figure>
 
-
-## Score
-
-
+From this bar chart, we see that the team that has the highest average weekly attendance for their games are the Redskins. That could be due to high capacity of the stadium and popularity. It is interesting to see that the Los Angeles Rams have such high average weekly attendance, while in the total attendance they were pretty low. This might be because of a loyal fanbase that comes to watch them regularly.
 
 # Conlusions and preferences
 
