@@ -13,26 +13,21 @@ permalink: /finalproject/
 
 # Introduction
 
-American football is the biggest sport in the United States of America, with the National Football League (NFL) being the big stage where 32 teams compete each season to win the much coveted Superbowl. 
+American football is the biggest sport in the United States of America, with the National Football League (NFL) being the big stage where 32 teams compete each season to win the much coveted Superbowl. The anatomy of the NFL can be quite confusing for those not familiar with how it works. The 32 teams are split into two conferences - the American Football Conference (AFC) and the National Football Conference (NFC). The 16 teams in each conference are split into 4 divisions; East, North, South and West divisions, with all divisions having 4 teams. Each regular season spans 18 weeks and each team plays 17 games over those weeks. Those 17 games consist of 6 games against divisional opponents, 4 games against teams from a division within its conference, 4 games against teams from a division in the other conference and 2 games against teams from the two remaining divisions in its conference. Then each team plays an additional game against a non-conference team that they are not scheduled to play.  
 
-The anatomy of the NFL can be quite confusing for those not familiar with how it works. 
-The 32 teams are split into two conferences - the American Football Conference (AFC) and the National Football Conference (NFC). The 16 teams in each conference are split into 4 divisions; East, North, South and West divisions, with all divisions having 4 teams.
-Each [regular season][nflSchedule] spans 18 weeks and each team plays 17 games over those weeks. Those 17 games consist of 6 games against divisional opponents, 4 games against teams from a division within its conference, 4 games against teams from a division in the other conference and 2 games against teams from the two remaining divisions in its conference. Then each team plays an additional game against a non-conference team that they are not scheduled to play.
+For you as a reader, all this information can be quite overwhelming for a new NFL viewer and when it comes to picking a team to support there are a lot of options to pick from. Some people have a favorite player and root for the team that said player plays for and some people root for their local team, or the team from their respective state or city. However, if you are an audience outside of the USA, you may not have such ties to any teams in the NFL and would therefore rather support a team that has been doing good over the last few years or maybe a team that has been successful in the past. We want to analyze the performance of all 32 teams for the last 20 seasons to potentially give a you, as new NFL-fan, an idea of what team to support.
 
 
-All this information can be quite overwhelming for a new NFL viewer and when it comes to picking a team to support there are a lot of options to pick from. Some people have a favorite player and root for the team that said player plays for and some people root for their local team, or the team from their respective state or city.
-However, the audience outside of the USA often has no such ties to any teams in the NFL and would therefore rather support a team that has been doing good over the last few years or maybe a team that has been successful in the past.
-We want to analyze the performance of all 32 teams for the last 20 seasons to potentially give a new NFL-fan an idea of what team to support.
 
-First, we'll explore the stadiums and fan engagement for each team to provide a glimpse into the unique atmosphere of each home stadium. Additionally, we'll delve into the weather conditions of the games to cater to the preferences of each new fan.
-
-Next, we'll focus on individual teams by examining their recent success over the past few years and analyzing the scores of each team. This comprehensive approach will help you select your favorite team, taking into account all these factors.
 
 # Stadiums
 
+First, we'll explore the stadiums and fan engagement for each team to provide a glimpse into the unique atmosphere of each home stadium. Additionally, we'll delve into the weather conditions of the games to cater to the preferences of each new fan.
 
 
 # Teams
+
+Next, we'll focus on individual teams by examining their recent success over the past few years and analyzing the scores of each team. This comprehensive approach will help you select your favorite team, taking into account all these factors.
 
 
 ## Wins
