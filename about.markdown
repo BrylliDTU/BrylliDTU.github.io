@@ -12,11 +12,11 @@ permalink: /finalproject/
 
 # Introduction
 
-American football is the biggest sport in the United States of America, with the National Football League(NFL) being the big stage where 32 teams compete each season to win the much coveted Superbowl. 
+American football is the biggest sport in the United States of America, with the National Football League (NFL) being the big stage where 32 teams compete each season to win the much coveted Superbowl. 
 
 The anatomy of the NFL can be quite confusing for those not familiar with how it works. 
 The 32 teams are split into two conferences - the American Football Conference (AFC) and the National Football Conference (NFC). The 16 teams in each conference are split into 4 divisions; East, North, South and West divisions, with all divisions having 4 teams.
-Each regular season spans 18 weeks and each team plays 17 games over those weeks. Those 17 games consist of 6 games against divisional opponents, 4 games against teams from a division within its conference, 4 games against teams from a division in the other conference and 2 games against teams from the two remaining divisions in its conference. Then each team plays an additional game against a non-conference team that they are not scheduled to play.(1)
+Each regular season spans 18 weeks and each team plays 17 games over those weeks. Those 17 games consist of 6 games against divisional opponents, 4 games against teams from a division within its conference, 4 games against teams from a division in the other conference and 2 games against teams from the two remaining divisions in its conference. Then each team plays an additional game against a non-conference team that they are not scheduled to play [NFL Schedule][nflSchedule].
 
 
 All this information can be quite overwhelming for a new NFL viewer and when it comes to picking a team to support there are a lot of options to pick from. Some people have a favorite player and root for the team that said player plays for and some people root for their local team, or the team from their respective state or city.
@@ -76,18 +76,11 @@ The Mission district is a densely populated district, which is likely a signific
 
 # External sources 
 
-Here you can find the source for time series insights [Time Series Insights][time-series].
+Here you can find the source for the NFL schedule [NFL Schedule][nflSchedule]
 
-Here you can find the sources for the map insights [Capp street][capp-street], [Barriers][barrier], [Polk Street][polk] and [Mission 2003][M2003].
+[nflSchedule]: https://operations.nfl.com/gameday/nfl-schedule/creating-the-nfl-schedule/#:~:text=THE%20ANATOMY%20OF%20THE%20NFL%20SCHEDULE&text=Every%20team%20will%20play%2017,games%20in%20the%202023%20season
 
-Here you can find the source for the Bokeh insights [Capp Street alleged crimes][Cap2]
 
-[time-series]: https://localnewsmatters.org/2023/08/17/sex-work-and-the-city-policing-prostitution-in-san-francisco-reflects-evolving-attitudes/
-[capp-street]: https://www.sfgate.com/local/article/san-francisco-sex-workers-mission-17777619.php 
-[barrier]: https://www.nbcbayarea.com/news/local/san-francisco-mission-barriers-address-sex-work/3320123/
-[polk]: https://www.sfexaminer.com/news/san-francisco-police-crack-down-on-polk-street-prostitution/article_6ce939bb-52c5-508b-ac29-28adb35ecae8.html
-[M2003]: https://missionmuckracker.wordpress.com/2017/05/19/shotwell-street-the-missions-prostitution-corridor/
-[Cap2]: https://abc7news.com/capp-street-san-francisco-cappt-st-collapsible-bollards-sex-work-18th-sf-mission/13231169/
 
 
 
