@@ -106,11 +106,9 @@ Here below you can see the high scoring percentage for teams that score over 50 
   <figcaption>Percentage of teams that have had games where they score over 50 points.</figcaption>
 </figure>
 
-# Conlusions
+# Conlusions and Recommendations
 
 As you embark on your journey into the exciting world of American football, armed with insights into team performance, stadium atmospheres, and fan engagement, you're now better equipped to select the perfect NFL team to support. From analyzing historical data to exploring interactive visualizations, our guide has provided valuable insights to help you make an informed decision.
-
-# Recommendations
 
 Explore our recommendations below, or simply choose your own team that you particularly like, and enjoy your journey to becoming a devoted fan of the NFL.
 
