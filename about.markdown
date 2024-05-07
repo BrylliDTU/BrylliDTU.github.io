@@ -87,6 +87,13 @@ The graph below is an interactive graph made with plotly express to show each te
 
 For the first win graph above, we have displayed information regarding the first win of each team since the year 2000. Pretty much all of the teams had their first fin at a similar time, except for the Los Angeles Chargers and the Houston Texans. This information is to understand the team's historical success better.
 
+<figure>
+  <iframe src="/asset/wins_per_season.html" width="800" height="600"></iframe>
+  <figcaption>Interactive graph for wins per season</figcaption>
+</figure>
+
+
+
 # Conlusions and preferences
 
 
